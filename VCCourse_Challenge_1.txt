@@ -1,0 +1,1 @@
+This file is for practicing uploading and committing from the GitHub Desktop Application to the GitHub website.
